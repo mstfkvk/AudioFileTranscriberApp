@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio File Transcriber",
+  "description": "An application to transcribe large audio files (up to several hours) using the Gemini API. Users can upload an audio file and receive a text transcription by leveraging Google's File API for efficient processing.",
+  "requestFramePermissions": []
+}
